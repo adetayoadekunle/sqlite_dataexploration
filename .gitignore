@@ -125,3 +125,4 @@ dmypy.json
 
 # avoid uploading sparcs_2022.csv
 sparcs_2022.csv
+*.db
